@@ -1,0 +1,12 @@
+C:\Users\stdeng\source\repos\University\Model\bin\Debug\Model.dll
+C:\Users\stdeng\source\repos\University\Model\bin\Debug\Model.pdb
+C:\Users\stdeng\source\repos\University\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\stdeng\source\repos\University\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\stdeng\source\repos\University\Model\obj\Debug\Model.dll
+C:\Users\stdeng\source\repos\University\Model\obj\Debug\Model.pdb
+E:\University\Model\bin\Debug\Model.dll
+E:\University\Model\bin\Debug\Model.pdb
+E:\University\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\University\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\University\Model\obj\Debug\Model.dll
+E:\University\Model\obj\Debug\Model.pdb

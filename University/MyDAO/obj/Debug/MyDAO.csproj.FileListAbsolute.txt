@@ -1,0 +1,17 @@
+C:\Users\stdeng\source\repos\University\MyDAO\obj\Debug\MyDAO.csprojResolveAssemblyReference.cache
+C:\Users\stdeng\source\repos\University\MyDAO\obj\Debug\MyDAO.csproj.CoreCompileInputs.cache
+C:\Users\stdeng\source\repos\University\MyDAO\bin\Debug\MyDAO.dll
+C:\Users\stdeng\source\repos\University\MyDAO\bin\Debug\MyDAO.pdb
+C:\Users\stdeng\source\repos\University\MyDAO\bin\Debug\Model.dll
+C:\Users\stdeng\source\repos\University\MyDAO\bin\Debug\Model.pdb
+C:\Users\stdeng\source\repos\University\MyDAO\obj\Debug\MyDAO.dll
+C:\Users\stdeng\source\repos\University\MyDAO\obj\Debug\MyDAO.pdb
+E:\University\MyDAO\bin\Debug\MyDAO.dll
+E:\University\MyDAO\bin\Debug\MyDAO.pdb
+E:\University\MyDAO\bin\Debug\Model.dll
+E:\University\MyDAO\bin\Debug\Model.pdb
+E:\University\MyDAO\obj\Debug\MyDAO.csprojAssemblyReference.cache
+E:\University\MyDAO\obj\Debug\MyDAO.csproj.CoreCompileInputs.cache
+E:\University\MyDAO\obj\Debug\MyDAO.csproj.CopyComplete
+E:\University\MyDAO\obj\Debug\MyDAO.dll
+E:\University\MyDAO\obj\Debug\MyDAO.pdb
